@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi, I'm Konstantin! 👋
+
+
+## 🚀 About Me
+A young student ready to dive into the world of technology. I am interested in web application development and also have an interest in backend development.
+
+
+## 🛠 Skills
+C#, SQL, HTML, CSS
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantin-tinev-64653a307/)
+
+
